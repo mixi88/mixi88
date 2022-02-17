@@ -1,0 +1,20 @@
+{
+    "g": "Demo",
+    "mf": "https://mixi88.club/resource/mixi/remote-assets/",
+    "dv": {
+        "i": false,
+        "a": true 
+    },
+    "ct": [],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
