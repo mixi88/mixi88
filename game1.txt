@@ -2,7 +2,7 @@
     "g": "Demo",
     "mf": "https://mixi88.club/resource/mixi/remote-assets/",
     "dv": {
-        "i": false,
+        "i": true,
         "a": true 
     },
     "ct": [],
