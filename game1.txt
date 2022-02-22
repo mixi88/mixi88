@@ -1,6 +1,7 @@
 {
     "g": "Demo",
     "mf": "https://mixi88.club/resource/mixi/remote-assets/",
+    "mf_ad" : "https://mixi88.club/resource/android/remote-assets",
     "dv": {
         "i": true,
         "a": true 
