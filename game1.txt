@@ -4,10 +4,10 @@
     "mf_ad" : "https://mixi88.club/resource/android/remote-assets",
     "dv": {
         "i": true,
-        "a": true 
+        "a": false 
     },
-    "ct": [],
-    "tl": [],
+    "ct": ["VN"],
+    "tl": ["VIETTEL","VINAPHONE","MOBIFONE","VIETNAMOBILE","ITEL"],
     "cfg": {
         "rdl": [],
         "tgll": [
